@@ -1,4 +1,4 @@
-Anushka Sharma  
+***Anushka Sharma***
 
 🚀 **Aspiring Full-Stack Developer | Cloud Enthusiast**  
 🎓 **B.Tech in Computer Science (CCVT)** - UPES, Dehradun  
