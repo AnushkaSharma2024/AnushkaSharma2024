@@ -1,4 +1,4 @@
-***Anushka Sharma***
+# <span style="font-size: 2.5rem; font-weight: bold;">Anushka Sharma</span>  
 
 🚀 **Aspiring Full-Stack Developer | Cloud Enthusiast**  
 🎓 **B.Tech in Computer Science (CCVT)** - UPES, Dehradun  
@@ -8,8 +8,8 @@
 
 ### 🔧 Skills:
 - **Programming:** C++, Python, JavaScript  
-- **Web:** HTML, CSS, React, NodeJS 
-- **Cloud & DevOps:** Docker, AWS, 
+- **Web:** HTML, CSS, React, Node.js  
+- **Cloud & DevOps:** Docker, AWS  
 - **ML/AI:** Neural Networks, PyTorch  
 
 ---
