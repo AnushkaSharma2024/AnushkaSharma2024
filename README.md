@@ -10,7 +10,7 @@
 - **Programming:** C++, Python, JavaScript  
 - **Web:** HTML, CSS, React, Node.js  
 - **Cloud & DevOps:** Docker, AWS  
-- **ML/AI:** Neural Networks, PyTorch  
+- **ML/AI:** Neural Networks
 
 ---
 
